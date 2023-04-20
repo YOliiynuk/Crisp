@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "name": "Anika Salas",
+      "color": [
+        "#292A2D"
+      ],
+      "size": [
+        "w27",
+        "w33",
+        "w52"
+      ],
+      "price": 791,
+      "sale": 23,
+      "image": "https://robohash.org/Ioonykkeee",
+      "id": 1
+    },
+    {
+      "name": "Tets",
+      "price": 300,
+      "color": [
+        "#971E34",
+        "#DAB1B1",
+        "#73513C"
+      ],
+      "size": [
+        "w36",
+        "w33",
+        "osfa",
+        "w27"
+      ],
+      "sale": 12,
+      "image": "https://robohash.org/TEST",
+      "id": 2
+    },
+    {
+      "name": "Doris Robertson",
+      "color": [
+        "#CBA13E",
+        "#666689",
+        "#AAABA7"
+      ],
+      "size": [
+        "w38",
+        "w36",
+        "w33",
+        "w50"
+      ],
+      "price": 52,
+      "sale": 12,
+      "image": "https://robohash.org/Uunyke",
+      "id": 4
+    }
+  ]
+}
